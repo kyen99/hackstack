@@ -1,7 +1,9 @@
 {
   "name": "hackstack",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "author": "Kai Yen",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
