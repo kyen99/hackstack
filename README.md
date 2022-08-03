@@ -3,6 +3,7 @@
 ## TODO
 
 - Google analytics (capture all events)
+- Magic link auth
 - Standard UI components
   - Hero
   - Pricing
@@ -16,6 +17,7 @@
 - Chakra-UI style and theming system
 - Next-auth authentication
 - GraphQL client
+- React-admin
 
 ## Setup
 
